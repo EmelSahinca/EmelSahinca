@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Emel from Canada
+
+I am a Software Automation Engineer in Test
+
+On this page, you can learn from scratch and follow my projects.
+
+Do not hesitate to send your questions to me.
 
 <!--
 **EmelSahinca/EmelSahinca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
