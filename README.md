@@ -3,7 +3,7 @@ I'm Emel from Canada
 
 I am a Software Automation Engineer in Test
 
-On this page, you can learn from scratch and follow my projects.
+On this page, you can check my projects.
 
 
 
